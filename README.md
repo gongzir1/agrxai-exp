@@ -34,5 +34,5 @@ The output is shown as follows:
 
 [5]Liyue Shen, Yanjun Zhang, Jingwei Wang, and Guangdong Bai. Better Together: Attaining the Triad of Byzantine-robust Federated Learning via Local Update Amplification. In Proceedings of the 38th Annual Computer Security Applications Conference, ACSAC ’22, pages 201–213, New York, NY, USA, 2022. Association for Computing Machinery.
 
-# License information
-# Contact information
+# License 
+# Contact us
