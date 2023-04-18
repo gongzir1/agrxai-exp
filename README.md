@@ -2,11 +2,11 @@
 # Description of the project
 
 # Installation instructions
-\ ```
+```
 git clone https://github.com/gongzir1/agrxai-exp.git
 cd agrxai-exp
 pip3 install -r requirements.txt
-\```
+```
 
 
 # Usage instructions
