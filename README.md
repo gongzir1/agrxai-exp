@@ -12,8 +12,7 @@ pip3 install -r requirements.txt
 # Usage instructions
 To run the code for a particular experiment, you can open the corresponding '_script.py' file in PyCharm and run it. The 'Defender.py' file is where the defence work is done, while the 'FL_models.py' file contains the structure of Federated Learning. The 'constant.py' file contains the settings for the constants used in the experiment. The 'output' folder contains the result files in the CSV format after running the code. 
 Note: the script is optimized for CUDA, so recommended to run with GPU device.
-#
-Understanding the output
+# Understanding the output
 The output is shown as follows:
 
 |epoch|test_acc|test_loss|training_acc|trainig_loss|
