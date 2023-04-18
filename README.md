@@ -14,12 +14,15 @@ To run the code for a particular experiment, you can open the corresponding '_sc
 Note: the script is optimized for CUDA, so recommended to run with GPU device.
 #
 Understanding the output
-The output consists of for columns
+The output is shown as follows:
 
-|epoch	|test_acc|	test_loss|	training_acc|	trainig_loss|
-|0	|0.08	|4.1	|0.12	|3.14|
-|10	|0.42|	1.3|	0.39	|1.52|
-|...	|...|	...	|...|	...|
+|epoch|test_acc|test_loss|training_acc|trainig_loss|
+|-----|--------|-----------|----------|------------|
+|  0  |  0.08  |   0.22    |   0.32   |     0.12   |
+|  1  |  0.01  |   0.32    |   0.39   |     0.12   |
+| ... |  ...   |    ...    |    ...   |    ...     |
+
+
 
 #References
 [1] Xiaoyu Cao, Minghong Fang, Jia Liu, and Neil Zhenqiang Gong. 2020. FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping. arXiv preprint arXiv:2012.13995 (2020).
